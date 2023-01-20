@@ -1,6 +1,6 @@
-### About Yukunxjr 👋
+### My Portfolio 👋
 
-[My Portfolio] ： https://learning-management-habits.com
+https://learning-management-habits.com
 
 <!--
 **yukunxjr/yukunxjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
