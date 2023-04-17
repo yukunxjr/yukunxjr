@@ -1,5 +1,7 @@
 ### My Portfolio 👋
 
+公開停止にしました！
+
 https://learning-management-habits.com
 
 <!--
